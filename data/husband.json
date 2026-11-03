@@ -1,0 +1,244 @@
+{
+  "productName": "Husband Field Guide",
+  "indexName": "Relationship Research",
+  "liveUrl": "https://coppersuncompanion.com/husband/research",
+  "appUrl": "https://coppersuncompanion.com/husband",
+  "lastVerified": "November 2026",
+  "healthDomain": true,
+  "generated": "derived from canonical config; do not hand-edit",
+  "topics": [
+    {
+      "slug": "what-predicts-a-lasting-marriage",
+      "title": "What Predicts a Lasting Marriage",
+      "question": "What do long-term studies find predicts whether a marriage stays satisfying and stable?",
+      "sources": [
+        {
+          "title": "Machine Learning and the Predictors of Relationship Quality",
+          "type": "paper",
+          "source": "Joel S, et al. — PNAS, 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32719123/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers which factors most reliably predict relationship quality. Pooling 43 longitudinal datasets from 29 laboratories, this machine-learning analysis found that a person's own relationship-specific perceptions — how committed, appreciative, and satisfied they felt their partner was — predicted up to 45% of the variance in relationship quality at the start and up to 18% by each study's end, while individual personality traits predicted 21% and 12%. A person's own perceptions mattered two to four times more than their partner's self-reported traits, and the models still left most of the long-term variance unexplained.",
+          "examines": "which measured factors best predict relationship quality across dozens of longitudinal datasets.",
+          "whyIncluded": "a pooled machine-learning analysis of self-report predictors across 43 datasets."
+        },
+        {
+          "title": "Research on Marital Satisfaction and Stability in the 2010s",
+          "type": "report",
+          "source": "Karney BR, Bradbury TN — Journal of Marriage and Family, 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34108739/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers what a decade of marriage research did and did not confirm. This 2020 review concluded that for most couples marital satisfaction stays relatively stable over long periods rather than inevitably declining, that negative communication is hard to change and does not always predict later distress, and that dyadic patterns reliable for middle-class couples may not generalize to lower-income couples. It is a narrative synthesis, so its conclusions summarize a body of studies rather than test a single hypothesis.",
+          "examines": "the decade's findings on what predicts marital satisfaction and stability.",
+          "whyIncluded": "a synthesis that revises several common assumptions about lasting marriage."
+        },
+        {
+          "title": "Does Communication Predict Satisfaction, or the Reverse?",
+          "type": "paper",
+          "source": "Lavner JA, et al. — Journal of Marriage and Family, 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27152050/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether communication skill actually drives lasting satisfaction. In a longitudinal study of newlywed couples, more satisfied couples did communicate more positively at a single point in time, but over time neither the path from communication to later satisfaction nor the path from satisfaction to later communication was robust. The result questions theories and programs that treat communication skill as the main lever for a lasting marriage, within 1 sample of newlyweds.",
+          "examines": "the longitudinal direction between couples' communication and their satisfaction.",
+          "whyIncluded": "a study finding the communication-satisfaction link weaker than commonly assumed."
+        },
+        {
+          "title": "Patterns of Change in Marital Satisfaction Over the Newlywed Years",
+          "type": "paper",
+          "source": "Lavner JA, Bradbury TN — Journal of Marriage and Family, 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21116452/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how early marriage trajectories relate to later divorce. Using eight satisfaction reports over 4 years from 464 newlywed spouses, the study identified five trajectory groups that varied systematically in their divorce rates at 4 and 10 years, and early differences in personality, stress, aggression, and communication distinguished the groups. It is a single newlywed sample, observational, tracking associations rather than causes.",
+          "examines": "whether early satisfaction trajectories forecast later divorce in newlyweds.",
+          "whyIncluded": "a cohort linking the first years' trajectory to 10-year stability."
+        },
+        {
+          "title": "Premarital Communication and the First Five Years of Marriage",
+          "type": "paper",
+          "source": "Markman HJ, et al. — Journal of Family Psychology, 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20545402/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether communication before marriage forecasts later distress. Following 210 couples across the first 5 years of marriage, self-reported negative premarital communication was significantly associated with later divorce, while observed negative communication only approached significance; negative communication decreased for all couples over time, but the nondistressed couples declined significantly more than the distressed couples. It is an observational prospective study, so it shows association, not cause.",
+          "examines": "whether premarital negative communication is associated with later distress and divorce.",
+          "whyIncluded": "a prospective study of premarital communication and divorce."
+        }
+      ]
+    },
+    {
+      "slug": "conflict-and-repair",
+      "title": "Conflict and Repair",
+      "question": "What does research find about how couples handle conflict, and what it predicts?",
+      "sources": [
+        {
+          "title": "A Two-Dimensional Meta-Analysis of Relationship Conflict",
+          "type": "paper",
+          "source": "Woodin EM — Journal of Family Psychology, 2011",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21553964/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how different conflict behaviors relate to satisfaction across many studies. This meta-analysis of 64 studies and 5,071 couples mapped conflict behavior onto two dimensions and found hostility was robustly associated with lower relationship satisfaction at a medium effect size, while problem-solving and intimacy were each closely associated with relationship satisfaction, also at medium effects, and gender differences were small. It pools correlational studies, so the associations do not establish direction or cause.",
+          "examines": "how hostility, problem-solving, and intimacy during conflict relate to satisfaction.",
+          "whyIncluded": "a meta-analysis quantifying conflict behaviors against satisfaction."
+        },
+        {
+          "title": "When Demand-Withdraw Helps: Socioeconomic Context",
+          "type": "paper",
+          "source": "Ross JM, et al. — Journal of Personality and Social Psychology, 2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30321045/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether 'bad' conflict patterns are universally bad. Across two samples — 515 couples over 18 months and 431 couples assessed across follow-ups to 27 months — the demand-withdraw pattern was linked to worse outcomes for higher-resource couples, but withdrawal was linked to more stable wives' satisfaction, protecting against decline, when socioeconomic risk was high. The association depended on couples' circumstances rather than being fixed; both samples are observational.",
+          "examines": "whether the effect of demand-withdraw depends on socioeconomic context.",
+          "whyIncluded": "a study where a classic 'toxic' pattern reversed by context."
+        },
+        {
+          "title": "When Negative Behaviors Are Positive",
+          "type": "paper",
+          "source": "McNulty JK, Russell VM — Journal of Personality and Social Psychology, 2010",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20307131/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers when directness during conflict helps versus harms. In 2 longitudinal newlywed studies, direct negative problem-solving — blame, commands, rejection — predicted steeper satisfaction declines when problems were minor but more stable satisfaction when problems were severe, an effect mediated by changes in the problems' severity; indirect negativity was associated with stably lower satisfaction regardless of problem severity. The studies are observational samples of newlyweds.",
+          "examines": "whether direct negativity helps or harms depending on problem severity.",
+          "whyIncluded": "a study where blunt negativity tracked better outcomes for severe problems."
+        },
+        {
+          "title": "When Poor Communication Does and Does Not Matter",
+          "type": "paper",
+          "source": "Nguyen TP, et al. — Journal of Family Psychology, 2020",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32077736/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether communication quality matters equally for all couples. In 414 newlywed couples observed four times at 9-month intervals, rising negativity coincided with lower satisfaction for husbands only when they were under greater stress than usual, and weaker problem-solving was associated with lower satisfaction only among spouses with chronically high cumulative stress. The findings come from newlyweds and are concurrent associations, so they may not generalize or establish cause.",
+          "examines": "whether stress moderates when communication quality affects satisfaction.",
+          "whyIncluded": "a study where communication mattered mainly under high stress."
+        }
+      ]
+    },
+    {
+      "slug": "responsiveness-and-everyday-connection",
+      "title": "Responsiveness and Everyday Connection",
+      "question": "What does research find about everyday responsiveness and connection between partners?",
+      "sources": [
+        {
+          "title": "Responsiveness in Romantic Partners' Interactions",
+          "type": "report",
+          "source": "Arican-Dinc B, Gable SL — Current Opinion in Psychology, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37515977/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers what researchers mean by 'responsiveness.' This 2023 review defines perceived partner responsiveness as a person's belief that their partner understands, validates, and cares about them, and positions it as a common thread running through support, gratitude, and shared-good-news interactions, with attentive listening as the first step. As a review it synthesizes earlier studies and offers a framework rather than reporting a single new result.",
+          "examines": "the concept of perceived partner responsiveness and the research around it.",
+          "whyIncluded": "a review defining responsiveness and its role across interactions."
+        },
+        {
+          "title": "Perceived Responsiveness Links Daily Sexual and Marital Satisfaction",
+          "type": "paper",
+          "source": "Gadassi R, et al. — Archives of Sexual Behavior, 2016",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25680818/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how feeling understood connects to satisfaction day to day. In 34 newlywed couples who kept daily diaries over 30 days, perceived partner responsiveness partly accounted for the link between a day's sexual satisfaction and marital satisfaction at both the between-person and daily levels; at the daily level the pattern was stronger for women, while no gender difference appeared at the between-person level. The sample is small and correlational, so it shows association rather than cause.",
+          "examines": "whether perceived responsiveness links daily sexual and marital satisfaction.",
+          "whyIncluded": "a daily-diary study of responsiveness as a connective thread."
+        },
+        {
+          "title": "Responses to a Partner's Good News Don't Always Align",
+          "type": "paper",
+          "source": "Bosisio M, et al. — Journal of Social and Personal Relationships, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35872974/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how partners respond when the other shares good news. In 151 cohabiting couples filmed sharing positive events, self-reported and partner-perceived enthusiastic (active-constructive) responses were linked to the responder's own greater sexual satisfaction, perceived 'quiet but interested' responses were linked to lower satisfaction, and observed responses that undermined the good news were linked to lower sexual function — different ways of measuring the response related to different outcomes. It is a correlational lab study of 151 cohabiting couples.",
+          "examines": "how self-reported, perceived, and observed responses to good news relate to well-being.",
+          "whyIncluded": "a study of how responses to a partner's good news relate to well-being."
+        }
+      ]
+    },
+    {
+      "slug": "gratitude-and-appreciation",
+      "title": "Gratitude and Appreciation",
+      "question": "What does research find about gratitude and appreciation between partners?",
+      "sources": [
+        {
+          "title": "Gratitude and Successful Partner Change",
+          "type": "paper",
+          "source": "Sisson NM, et al. — Personality and Social Psychology Bulletin, 2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38682755/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how appreciation relates to a partner's efforts to change. Across an observational sample of 111 couples, a preregistered longitudinal sample of 150 couples, and two experiments of 431 and 725 people, one partner's expressed gratitude for the other's change efforts was linked to greater reported success at making the change, consistently explained by the changing partner's more self-determined motivation. The experiments support a causal reading, though the change was self-reported.",
+          "examines": "whether a partner's expressed gratitude relates to successful change efforts.",
+          "whyIncluded": "a multi-method set linking gratitude to autonomous motivation and change."
+        },
+        {
+          "title": "Perceived vs. Expressed Gratitude as a Buffer",
+          "type": "paper",
+          "source": "Barton AW, et al. — Journal of Social and Personal Relationships, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38911018/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether feeling appreciated or expressing appreciation matters more. In 316 African American couples followed across three waves over about 16 months, higher perceived gratitude — feeling appreciated by one's partner — buffered the link between relationship stressors and worse relationship quality, whereas expressed gratitude did not, and the longitudinal protection held only for ineffective arguing, not financial strain. It is observational in one specific population, so it may not generalize.",
+          "examines": "whether perceived or expressed gratitude buffers relationship stressors.",
+          "whyIncluded": "a study separating felt appreciation from expressed appreciation."
+        },
+        {
+          "title": "The Hidden Costs of Overstated Gratitude",
+          "type": "paper",
+          "source": "Shimshock CJ, et al. — Personality and Social Psychology Bulletin, 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41342869/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers when gratitude can backfire. Across four dyadic studies of 639 couples — lab conversations, daily life, and over time — expressing or perceiving more gratitude than was genuinely felt, which the authors call 'gratitude amplification,' was linked to personal and relationship costs, explained by lower authenticity and responsiveness. The work suggests appreciation beyond what is felt carries downsides, within correlational and short-term designs.",
+          "examines": "whether expressing more gratitude than is felt carries relationship costs.",
+          "whyIncluded": "a study documenting downsides of overstated gratitude."
+        },
+        {
+          "title": "How Honesty Shapes the Benefits of Gratitude",
+          "type": "paper",
+          "source": "Le BM, et al. — Emotion, 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41701191/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether sincerity changes what gratitude does. In 214 romantic couples studied through daily reports, a lab session, and a 3-month follow-up, both expressing and perceiving sincerity about gratitude predicted greater personal and relationship well-being, while accurately reading a partner's sincerity did not — what a person perceived mattered more than the underlying reality. The findings are correlational and self-reported.",
+          "examines": "whether sincerity about gratitude changes its personal and relationship benefits.",
+          "whyIncluded": "a study on the role of sincerity in whether gratitude helps."
+        },
+        {
+          "title": "Expressing Gratitude Increases Time Together: A Field Experiment",
+          "type": "paper",
+          "source": "Chang YP, et al. — Scientific Reports, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35810173/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether deliberately expressing gratitude changes daily behavior. In a 5-week randomized field experiment with daily couple reports, partners randomly assigned to a gratitude-expression plan spent more time physically together in everyday life than a control group, an effect explained by the increase in expressed gratitude. As a randomized experiment it supports a causal reading, though it measured time together rather than relationship quality directly.",
+          "examines": "whether a gratitude-expression intervention increases couples' time together.",
+          "whyIncluded": "a randomized field experiment on expressing gratitude."
+        }
+      ]
+    },
+    {
+      "slug": "fairness-and-the-division-of-labor",
+      "title": "Fairness and the Division of Labor",
+      "question": "What does research find about the division of labor, fairness, and relationship satisfaction?",
+      "sources": [
+        {
+          "title": "The Cognitive Dimension of Household Labor: A Systematic Review",
+          "type": "paper",
+          "source": "Reich-Stiebert N, et al. — Sex Roles, 2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37283733/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers the 'mental load' — the planning and remembering behind running a household. This systematic review of 31 studies found that women perform the larger share of cognitive and mental household and childcare labor, especially parenting decisions, and report more related consequences including stress and lower life and relationship satisfaction. As a review of mostly observational studies, it describes patterns rather than establishing cause.",
+          "examines": "who carries the cognitive, mental load of household labor and its reported consequences.",
+          "whyIncluded": "a systematic review of the mental-load research."
+        },
+        {
+          "title": "Gendered Perceptions of Fairness in Housework and Expenses",
+          "type": "paper",
+          "source": "Gillespie BJ, et al. — PLoS One, 2019",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30893363/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how perceptions of fairness relate to satisfaction. Among 10,236 survey respondents, feeling that the division was unfair to oneself predicted relationship satisfaction and sexual frequency more strongly than feeling it was unfair to one's partner, and fairness over shared expenses was a stronger predictor of relationship quality than perceived fairness in housework. It is a cross-sectional online survey, so it captures associations at a single point in time.",
+          "examines": "which fairness perceptions predict relationship satisfaction and sexual frequency.",
+          "whyIncluded": "a large survey on perceived fairness and relationship quality."
+        },
+        {
+          "title": "Household Labor and Sexual Desire in Partnered Mothers",
+          "type": "paper",
+          "source": "Harris EA, et al. — Archives of Sexual Behavior, 2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36112330/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers how an unequal division of labor relates to desire. In two samples of partnered mothers (677 and 396 women), doing a larger share of household labor was associated with lower sexual desire for the partner, a link explained by perceiving the partner as dependent and by seeing the division as unfair. Both samples are correlational and limited to mothers partnered with men, so the findings may not generalize.",
+          "examines": "whether an unequal household-labor share relates to lower sexual desire.",
+          "whyIncluded": "a study linking labor division to desire through perceived unfairness."
+        },
+        {
+          "title": "Dividing Childcare Across the Transition to Parenthood",
+          "type": "paper",
+          "source": "Fillo J, et al. — Journal of Personality and Social Psychology, 2015",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25603377/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers whether splitting childcare evenly predicts satisfaction. Following first-time parents from about 6 weeks before birth to 24 months after, the share of childcare a partner did was not on its own tied to relationship satisfaction; instead, individual differences such as attachment avoidance and perceptions such as childcare confidence and work-family conflict shaped whether a given division predicted satisfaction. It is a longitudinal but observational study.",
+          "examines": "whether the proportion of childcare predicts satisfaction across new parenthood.",
+          "whyIncluded": "a study where the childcare split alone did not predict satisfaction."
+        },
+        {
+          "title": "Egalitarianism, Housework, and Sexual Frequency",
+          "type": "paper",
+          "source": "Kornrich S, et al. — American Sociological Review, 2013",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25540459/",
+          "capsule": "Husband Field Guide research surfaced this report because it covers a counterintuitive finding about sharing housework. Using National Survey of Families and Households data collected in the 1990s, couples with a more traditional, gender-typical division of housework reported higher sexual frequency, and men doing more of the traditionally female 'core' chores was associated with less frequent sex — contrary to the idea that sharing housework boosts intimacy. The data are observational and decades old, so they may not reflect couples today.",
+          "examines": "the association between housework division and sexual frequency.",
+          "whyIncluded": "an older study with a finding that runs counter to the fairness literature."
+        }
+      ]
+    }
+  ]
+}
